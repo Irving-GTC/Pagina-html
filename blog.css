@@ -1,0 +1,28 @@
+#blog h3,h4,h5{
+    text-align: center;
+}
+
+#blog h3{
+    text-align: center;
+    text-shadow: 2px 2px #ff00005d;
+    font-family: 'Oswald', sans-serif;
+}
+
+#blog .contenedor{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#blog article{
+    margin: 15px;
+}
+
+#blog img{
+    width: 100%;
+    max-width: 300px;
+    margin:10px auto;
+	display:block;
+}
+
+

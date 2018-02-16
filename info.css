@@ -1,0 +1,22 @@
+#info{
+    background: #3D5AFE;
+    text-align: center;
+    color: #fff;
+}
+
+#info .contenedor{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.Videos-subidos{
+    margin: 20px;
+}
+
+.Videos-subidos img{
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    border: 5px solid #fff;
+}
